@@ -1,0 +1,2 @@
+# Want to Learn Modern JavaScript Used Nowadays
+check my repo it will dafinately give you a basic idea of how Modern javascript syntax look like, if you follow along so at the end of the course you will have a junior level of devoloper Experience of how things work in JavaScrript
